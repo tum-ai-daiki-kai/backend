@@ -1,0 +1,20 @@
+{
+    "male" : {
+       "he_she": "he",
+       "his_her": "his",
+       "him_her": "him",
+       "himself_herself": "himself",
+       "gender" : "man",
+       "parent" : "father",
+       "male_female" : "male"
+    },
+    "female" : {
+        "he_she": "she",
+        "his_her": "her",
+        "him_her": "her",
+        "himself_herself": "herself",
+        "gender" : "woman",
+        "parent" : "mother",
+        "male_female" : "female"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "male" : {
+       "asian" : {
+        "name": "Jianjun",
+        "surname": "Wang"
+       },
+       "european" : {
+        "name": "Peter",
+        "surname": "Martin"
+       },
+       "african" : {
+        "name": "Mohamed",
+        "surname": "Abebe"
+       },
+       "latin_american" : {
+        "name": "Gabriel" ,
+        "surname": "Rodríguez"
+       },
+       "north_american" : {
+        "name": "James",
+        "surname": "Williams"
+       }
+    },
+    "female" : {
+        "asian" : {
+        "name": "Ying",
+        "surname": "Zhang"
+        },
+        "european" : {
+        "name": "Maria",
+        "surname": "Smith"
+        },
+        "african" : {
+        "name": "Marie",
+        "surname": "Dlamini"
+        },
+        "latin_american" : {
+        "name": "Camille" ,
+        "surname": "González"
+        },
+        "north_american" : {
+        "name": "Mary",
+        "surname": "Johnson"
+           }
+    }
+}
